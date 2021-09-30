@@ -1,0 +1,3 @@
+SELECT *
+FROM "Notebooks"
+WHERE processor LIKE "Intel"
